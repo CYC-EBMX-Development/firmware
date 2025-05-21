@@ -13,9 +13,9 @@
   },
   "Photon": {
     "Normal": {
-      "latest": "20250424",
-      "url": "X6P-181-OQC-250424-PHN.bin",
-      "md5": "0ed7666dde74a5c68ee8a3e2f2d787fb"
+      "latest": "20240717",
+      "url": "X6P-181-OQC-240717-PHN.bin",
+      "md5": "96ec8fc7431cd2fef7b95634a82533cd"
     },
     "CO": {
       "latest": "20240314",
@@ -40,23 +40,23 @@
   },
   "X6 - X1 Pro": {
     "Normal": {
-      "latest": "20250424",
-      "url": "X6-181-OQC-250424-PRO3.bin",
-      "md5": "0875ccccfee720f5ff742da2594aac26"
+      "latest": "20240614",
+      "url": "X6-181-OQC-240614-PRO.bin",
+      "md5": "3f3d3918b54942aef3c1ddd2231cca5b"
     }
   },
   "X6 - X1 Stealth": {
     "Normal": {
-      "latest": "20250424",
-      "url": "X6-181-OQC-250424-STL3.bin",
-      "md5": "2bbfbf4380e60155bca4dcc62d890be0"
+      "latest": "20240614",
+      "url": "X6-181-OQC-240614-STL.bin",
+      "md5": "584db8e35ee5f60ae8a9cfa26fadbc63"
     }
   },
   "X12 Pro Gen 4": {
     "Normal": {
-      "latest": "20250424",
-      "url": "X12-181-OQC-250424-PRO4.bin",
-      "md5": "ba75f7b902d54a9f791c53ed96a1a6f3"
+      "latest": "20240624",
+      "url": "X12-181-OQC-240624-PRO4.bin",
+      "md5": "72acf2ee6fd19f5b492c2f3353fff79f"
     },
     "RS": {
       "latest": "20240627",
@@ -66,9 +66,9 @@
   },
   "X12 Pro Gen 3": {
     "Normal": {
-      "latest": "20250424",
-      "url": "X12-181-OQC-250424-PRO3.bin",
-      "md5": "c660a3487a4e14a5755c3cd5e13cc65c"
+      "latest": "20240624",
+      "url": "X12-181-OQC-240624-PRO3.bin",
+      "md5": "537964eb7fdce60716bd691dab5f86c6"
     }
   }
 }
