@@ -9,6 +9,11 @@
       "latest": "20250623",
       "url": "X-9000B-TEST-SURRON-250623.bin",
       "md5": "672e57b617d06588706da8349d87b63c"
+    },
+    "V3":{
+      "latest": "20250707",
+      "url": "X9KV3_OQC_250707V04.bin",
+      "md5": "d4f742bb9a1790f5f5864d6ed9bb9c84"
     }
   },
   "X12 Pro Gen 3": {
