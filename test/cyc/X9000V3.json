@@ -1,0 +1,54 @@
+{
+    "version": {
+        "en_US": "Version: v2.0.0",
+        "fr": "Version: v2.0.0",
+        "zh_CN": "版本：v2.0.0",
+        "zh_Hant": "版本：v2.0.0",
+        "de": "Version: v2.0.0",
+        "es": "Versión: v2.0.0",
+        "ja": "バージョン: v2.0.0",
+        "ko": "버전: v2.0.0",
+        "it": "Versione: v2.0.0",
+        "ru": "Версия: v2.0.0",
+        "ar": "الإصدار: v2.0.0"
+    },
+    "date": {
+        "en_US": "Date: 2025-12-23",
+        "fr": "Date: 2025-12-23",
+        "zh_CN": "日期：2025-12-23",
+        "zh_Hant": "日期：2025-12-23",
+        "de": "Datum: 2025-12-23",
+        "es": "Fecha: 2025-12-23",
+        "ja": "日付: 2025年12月23日",
+        "ko": "날짜: 2025년 12월 23일",
+        "it": "Data: 23 dicembre 2025",
+        "ru": "Дата: 23 декабря 2025 года",
+        "ar": "التاريخ: 23 ديسمبر 2025"
+    },
+    "title": {
+        "en_US": "X-9000 V3 Normal Firmware",
+        "fr": "X-9000 V3 Firmware Normal",
+        "zh_CN": "X-9000 V3 正常固件",
+        "zh_Hant": "X-9000 V3 正常韌體",
+        "de": "X-9000 V3 Normales Firmware",
+        "es": "Firmware Normal X-9000 V3",
+        "ja": "X-9000 V3 通常ファームウェア",
+        "ko": "X-9000 V3 일반 펌웨어",
+        "it": "Firmware Normale X-9000 V3",
+        "ru": "Прошивка X-9000 V3 Нормальная",
+        "ar": "البرامج الثابتة العادية X-9000 V3"
+    },
+    "content": {
+        "en_US": "## * Added support for 4-channel PWM d\n · The application now supports connection to Bluetooth Low Energy (BLE) heart rate monitors.\n## * Added support for 4-channel PWM d\n · The application now supports connection to Bluetooth Low Energy (BLE) heart rate monitors.\n## * Added support for 4-channel PWM d\n · The application now supports connection to Bluetooth Low Energy (BLE) heart rate monitors.",
+        "fr": "## * Ajout de la prise en charge des contrôleurs PWM à 4 canaux",
+        "zh_CN": "## * 添加对4通道PWM控制器的支持",
+        "zh_Hant": "## * 添加对4通道PWM控制器的支持",
+        "de": "## * Unterstützung für 4-Kanal-PWM-Controller hinzugefügt",
+        "es": "## * Se agregó soporte para controladores PWM de 4 canales",
+        "ja": "## * 4チャンネルPWMコントローラーのサポートを追加",
+        "ko": "## * 4채널 PWM 컨트롤러 지원 추가",
+        "it": "## * Aggiunto supporto per controller PWM a 4 canali",
+        "ru": "## * Добавлена поддержка 4-канальных PWM контроллеров",
+        "ar": "## * تمت إضافة دعم لوحدات التحكم PWM رباعية القنوات"
+    }
+}
