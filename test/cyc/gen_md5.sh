@@ -2,7 +2,8 @@
 # 提取 firmware.json 的 md5 值并保存到 firmware.md5
 #
 # 示例：
-# ./gen_md5.sh
+# bash gen_md5.sh
+# 不要用 sh
 
 md5val=$(md5 -q firmware.json)
 echo -n "$md5val" > firmware.md5
