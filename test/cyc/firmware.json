@@ -1,10 +1,9 @@
 {
   "X-9000 V3":{
     "Normal": {
-      "latest": "20251223",
-      "url": "X9KV3_250630V02.bin",
-      "md5": "1e01814b662002d4c2a0e16dfef09cd1",
-      "updateInfoFile": "X9000V3.json"
+      "latest": "20250707",
+      "url": "X9KV3_OQC_250707V04.bin",
+      "md5": "d4f742bb9a1790f5f5864d6ed9bb9c84"
     }
   },
   "X-9000": {
