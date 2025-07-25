@@ -1,9 +1,9 @@
 {
-  "X-9000 V3":{
+  "X-9000 V3": {
     "Normal": {
-      "latest": "20250707",
-      "url": "X9KV3_OQC_250707V04.bin",
-      "md5": "d4f742bb9a1790f5f5864d6ed9bb9c84"
+      "latest": "20250717",
+      "url": "X9KV3_OQC_250717V02.bin",
+      "md5": "9cb492c69554a443bf27523fe5c0c70c"
     }
   },
   "X-9000": {
@@ -81,6 +81,13 @@
       "latest": "20250604",
       "url": "X6P-181-OQC-250604-PHN.bin",
       "md5": "88711a3e5da4e5e3813a693f59d58c82"
+    }
+  },
+  "Photon 2": {
+    "Normal": {
+      "latest": "20250725",
+      "url": "X6P2_250725.bin",
+      "md5": "354996bf0b30bf5a554e833c0dca8ba9"
     }
   }
 }
