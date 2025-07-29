@@ -87,7 +87,8 @@
     "Normal": {
       "latest": "20250724",
       "url": "X6P2_250725.bin",
-      "md5": "354996bf0b30bf5a554e833c0dca8ba9"
+      "md5": "354996bf0b30bf5a554e833c0dca8ba9",
+      "updateInfoFile": "X9000V3.json"
     }
   }
 }
