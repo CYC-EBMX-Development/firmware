@@ -1,5 +1,15 @@
 package main
 
+/**
+本项目是一个基于 Go 语言实现的简单文件下载服务。用户可以通过 HTTP 接口下载 `test/cyc` 目录下的任意文件。
+
+启动服务：
+go run main.go
+
+下载文件：
+在浏览器中访问 http://<你的IP>:8080/download/<文件名>
+*/
+
 import (
 	"fmt"
 	"log"
