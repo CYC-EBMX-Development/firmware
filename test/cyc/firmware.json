@@ -84,6 +84,13 @@
       "updateInfoFile": "X9000V3.json"
     }
   },
+  "X6-EXOQUAD 20250715": {
+    "Normal": {
+      "latest": "20250804",
+      "url": "X6-EXOQUAD-TEST-250804.bin",
+      "md5": "6df5e226aa752bdbf7dcce64df1c2710"
+    }
+  },
   "Photon 2": {
     "Normal": {
       "latest": "20250724",
