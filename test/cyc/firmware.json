@@ -1,9 +1,9 @@
 {
-  "X-9000 V3": {
+  "X-9000 V3":{
     "Normal": {
-      "latest": "20250717",
-      "url": "X9KV3_OQC_250717V02.bin",
-      "md5": "9cb492c69554a443bf27523fe5c0c70c"
+      "latest": "20251011",
+      "url": "X9KV3_OQC_251011V02.bin",
+      "md5": "0d51ef64f4cbed55f3df4d1cd0b5064e"
     }
   },
   "X-9000": {
@@ -37,7 +37,7 @@
       "md5": "e09b1a349a69eb33840dfbecfb52473b"
     },
     "RS": {
-      "latest": "20240627",
+      "latest": "20240727",
       "url": "X12-181-RS-240627-PRO4.bin",
       "md5": "622122673d8b1e0638704d6849448268"
     }
@@ -78,24 +78,9 @@
       "md5": "bf11ef46ec7bed82206d908f7a9874ca"
     },
     "Normal": {
-      "latest": "20250804",
+      "latest": "20250604",
       "url": "X6P-181-OQC-250604-PHN.bin",
-      "md5": "88711a3e5da4e5e3813a693f59d58c82",
-      "updateInfoFile": "X9000V3.json"
-    }
-  },
-  "X6-EXOQUAD 20250715": {
-    "Normal": {
-      "latest": "20250819",
-      "url": "X6-181-EXOTEK-250818-PRO4.bin",
-      "md5": "c2405e1f070f64aae0c424d0579c3d3f"
-    }
-  },
-  "Photon 2": {
-    "Normal": {
-      "latest": "20250724",
-      "url": "X6P2_250725.bin",
-      "md5": "354996bf0b30bf5a554e833c0dca8ba9"
+      "md5": "88711a3e5da4e5e3813a693f59d58c82"
     }
   }
 }
