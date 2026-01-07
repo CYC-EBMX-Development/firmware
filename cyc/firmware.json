@@ -78,9 +78,9 @@
   },
   "X-9000 V3": {
     "Normal": {
-      "latest": "20251230",
-      "url": "X9KV3_OQC_251230V01.bin",
-      "md5": "a7fb5fa8630c7ce27a6db0b4813bba1c"
+      "latest": "20260107",
+      "url": "X9KV3_OQC_260107V01.bin",
+      "md5": "b561ed2eddc97354334a97dce068d653"
     }
   }
 }
