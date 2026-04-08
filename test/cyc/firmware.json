@@ -32,6 +32,13 @@
       "md5": "672e57b617d06588706da8349d87b63c"
     }
   },
+  "Nireeka X12 -X1 Pro Gen 4,": {
+    "Normal": {
+      "latest": "20251224",
+      "url": "X12-NK-TEST-251222-PRO4.bin",
+      "md5": "e5d19ddc86c8019a24c0d8555f7eecf2"
+    }
+  },
   "X12 Pro Gen 3": {
     "Normal": {
       "latest": "20250604",
