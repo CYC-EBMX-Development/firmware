@@ -8,14 +8,14 @@
   },
   "BONNELL805-x30":{
     "Normal": {
-      "latest": "20260311",
+      "latest": "20260212",
       "url": "x30_Bonnell805_TEST_260212_V02.bin",
       "md5": "2ff08c51d9524d018c15693558a6c6ba"
     }
   },
   "BONNELL902-x42":{
     "Normal": {
-      "latest": "20260311",
+      "latest": "20260212",
       "url": "x42_Bonnell902_TEST_260212_V02.bin",
       "md5": "e6c65c34123f4ef8c15f1a4b0bc7e522"
     }
