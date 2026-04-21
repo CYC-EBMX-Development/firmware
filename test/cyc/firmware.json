@@ -1,4 +1,11 @@
 {
+  "Photon Pro":{
+    "Normal": {
+      "latest": "20260604",
+      "url": "X9KV3_OQC_251011V02.bin",
+      "md5": "d4f742bb9a1790f5f5864d6ed9bb9c84"
+    }
+  },
   "X-9000 V3":{
     "Normal": {
       "latest": "20261011",
