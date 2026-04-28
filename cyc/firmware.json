@@ -11,6 +11,13 @@
       "md5": "672e57b617d06588706da8349d87b63c"
     }
   },
+  "X6-EXOQUAD":{
+    "Normal": {
+      "latest": "20260105",
+      "url": "X6-181-EXOTEK-260105-PRO4.bin",
+      "md5": "85714568e8fe64d2e4b182e02b842019"
+    }
+  },
   "BONNELL805-x30":{
     "Normal": {
       "latest": "20260422",
