@@ -22,9 +22,9 @@
   },
   "BONNELL902-x42":{
     "Normal": {
-      "latest": "20260522",
-      "url": "x42_Bonnell902_Test_260521_V01.bin",
-      "md5": "73fb52acb7881dcfe93415e4da0ab8ec"
+      "latest": "20260618",
+      "url": "x42_Bonnell902_TEST_260617_V02.bin",
+      "md5": "b5d560bd821c949956f577d1c06e1803"
     }
   },
   "X-9000": {
