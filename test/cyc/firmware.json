@@ -8,10 +8,9 @@
   },
   "X-9000 V3":{
     "Normal": {
-      "latest": "20261011",
-      "url": "X9KV3_OQC_251011V02.bin",
-      "md5": "d4f742bb9a1790f5f5864d6ed9bb9c84",
-      "updateInfoFile": "X9000V3.json"
+      "latest": "20260617",
+      "url": "X9KV3-0617.bin",
+      "md5": "445004340558eb8b81a12daf7d12b1c8"
     }
   },
   "BONNELL805-x30":{
