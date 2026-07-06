@@ -11,34 +11,6 @@
       "md5": "672e57b617d06588706da8349d87b63c"
     }
   },
-  "X6-EXOQUAD":{
-    "Normal": {
-      "latest": "20260105",
-      "url": "X6-181-EXOTEK-260105-PRO4.bin",
-      "md5": "85714568e8fe64d2e4b182e02b842019"
-    }
-  },
-  "BONNELL805-x30":{
-    "Normal": {
-      "latest": "20260422",
-      "url": "x30_Bonnell805_TEST_260422_V01.bin",
-      "md5": "a959e61ebe838955e5ae758bfbebd9e4"
-    }
-  },
-  "BONNELL902-x42":{
-    "Normal": {
-      "latest": "20260212",
-      "url": "x42_Bonnell902_TEST_260212_V02.bin",
-      "md5": "e6c65c34123f4ef8c15f1a4b0bc7e522"
-    }
-  },
-  "Nireeka X12 -X1 Pro Gen 4": {
-    "Normal": {
-      "latest": "20251222",
-      "url": "X12-NK-TEST-251222-PRO4.bin",
-      "md5": "e5d19ddc86c8019a24c0d8555f7eecf2"
-    }
-  },
   "X12 Pro Gen 3": {
     "Normal": {
       "latest": "20250604",
@@ -106,9 +78,9 @@
   },
   "X-9000 V3": {
     "Normal": {
-      "latest": "20260107",
-      "url": "X9KV3_OQC_260107V01.bin",
-      "md5": "b561ed2eddc97354334a97dce068d653"
+      "latest": "20260703",
+      "url": "X9KV3_OQC_260703V01.bin",
+      "md5": "facd86cc6456bdd05b304aa35103462c"
     }
   }
 }
