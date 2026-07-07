@@ -111,6 +111,10 @@ def main():
     file_info_cache = {}  # 临时存储所有找到的文件信息
     
     for filename in bin_files:
+        # 忽略包含 TEST 的文件，但 X-9000 除外
+        if 'TEST' in filename.upper() and not filename.startswith('X-9000'):
+            print(f"信息: 忽略测试文件 {filename}")
+            continue
         device, variant = parse_filename(filename)
         if device and variant:
             # 从文件名中提取日期
