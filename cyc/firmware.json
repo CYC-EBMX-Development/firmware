@@ -1,4 +1,25 @@
 {
+  "BONNELL805-x30": {
+    "Normal": {
+      "latest": "20260618",
+      "url": "x30_Bonnell805_TEST_260617_V02.bin",
+      "md5": "5d418805f9d827fec3f899135c742720"
+    }
+  },
+  "BONNELL902-x42": {
+    "Normal": {
+      "latest": "20260618",
+      "url": "x42_Bonnell902_TEST_260617_V02.bin",
+      "md5": "b5d560bd821c949956f577d1c06e1803"
+    }
+  },
+  "Nireeka X12 -X1 Pro Gen 4": {
+    "Normal": {
+      "latest": "20251224",
+      "url": "X12-NK-TEST-251222-PRO4.bin",
+      "md5": "e5d19ddc86c8019a24c0d8555f7eecf2"
+    }
+  },
   "Photon": {
     "Normal": {
       "latest": "20250604",
