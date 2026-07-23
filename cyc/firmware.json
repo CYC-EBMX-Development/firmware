@@ -1,37 +1,16 @@
 {
-  "X-9000 V3": {
-    "Normal": {
-      "latest": "20260617",
-      "url": "X9KV3-0617.bin",
-      "md5": "445004340558eb8b81a12daf7d12b1c8"
-    }
-  },
-  "BONNELL805-x30": {
-    "Normal": {
-      "latest": "20260618",
-      "url": "x30_Bonnell805_TEST_260617_V02.bin",
-      "md5": "5d418805f9d827fec3f899135c742720"
-    }
-  },
-  "BONNELL902-x42": {
-    "Normal": {
-      "latest": "20260618",
-      "url": "x42_Bonnell902_TEST_260617_V02.bin",
-      "md5": "b5d560bd821c949956f577d1c06e1803"
-    }
-  },
-  "Nireeka X12 -X1 Pro Gen 4": {
-    "Normal": {
-      "latest": "20251224",
-      "url": "X12-NK-TEST-251222-PRO4.bin",
-      "md5": "e5d19ddc86c8019a24c0d8555f7eecf2"
-    }
-  },
   "Photon": {
     "Normal": {
       "latest": "20250604",
       "url": "X6P-181-OQC-250604-PHN.bin",
       "md5": "88711a3e5da4e5e3813a693f59d58c82"
+    }
+  },
+  "X-9000 V3": {
+    "Normal": {
+      "latest": "20260714",
+      "url": "X9KV3_OQC_260714V01.bin",
+      "md5": "5748c5d5ecd3456da81c96afbc31c06b"
     }
   }
 }
