@@ -1,54 +1,4 @@
 {
-  "X-9000": {
-    "Normal": {
-      "latest": "20250623",
-      "url": "X-9000-TEST-SURRON-250623.bin",
-      "md5": "1dcc29137ed56374ea04302353baca12"
-    },
-    "B": {
-      "latest": "20250623",
-      "url": "X-9000B-TEST-SURRON-250623.bin",
-      "md5": "672e57b617d06588706da8349d87b63c"
-    }
-  },
-  "X12 Pro Gen 3": {
-    "Normal": {
-      "latest": "20250604",
-      "url": "X12-181-OQC-250604-PRO3.bin",
-      "md5": "8b50347bd8b700ffd6aae8009ffefa54"
-    }
-  },
-  "X12 Pro Gen 4": {
-    "Normal": {
-      "latest": "20250604",
-      "url": "X12-181-OQC-250604-PRO4.bin",
-      "md5": "1aee089037f856407a7968995e028a9e"
-    },
-    "MX": {
-      "latest": "20250604",
-      "url": "X12-181-OQC-250604-MXPRO4.bin",
-      "md5": "e09b1a349a69eb33840dfbecfb52473b"
-    },
-    "RS": {
-      "latest": "20240627",
-      "url": "X12-181-RS-240627-PRO4.bin",
-      "md5": "622122673d8b1e0638704d6849448268"
-    }
-  },
-  "X6 - X1 Pro": {
-    "Normal": {
-      "latest": "20250604",
-      "url": "X6-181-OQC-250604-PRO3.bin",
-      "md5": "5e52ff311ac8cc37bcba0aaf30aadce5"
-    }
-  },
-  "X6 - X1 Stealth": {
-    "Normal": {
-      "latest": "20250604",
-      "url": "X6-181-OQC-250604-STL3.bin",
-      "md5": "3d4bbe3837d5c7e3d53f3cdbbe9c8d1b"
-    }
-  },
   "Photon": {
     "BF": {
       "latest": "20240705",
@@ -76,11 +26,61 @@
       "md5": "88711a3e5da4e5e3813a693f59d58c82"
     }
   },
+  "X-9000": {
+    "B": {
+      "latest": "20250623",
+      "url": "X-9000B-TEST-SURRON-250623.bin",
+      "md5": "672e57b617d06588706da8349d87b63c"
+    },
+    "Normal": {
+      "latest": "20250623",
+      "url": "X-9000-TEST-SURRON-250623.bin",
+      "md5": "1dcc29137ed56374ea04302353baca12"
+    }
+  },
   "X-9000 V3": {
     "Normal": {
-      "latest": "20260703",
-      "url": "X9KV3_OQC_260703V01.bin",
-      "md5": "facd86cc6456bdd05b304aa35103462c"
+      "latest": "20260714",
+      "url": "X9KV3_OQC_260714V01.bin",
+      "md5": "5748c5d5ecd3456da81c96afbc31c06b"
+    }
+  },
+  "X12 Pro Gen 3": {
+    "Normal": {
+      "latest": "20250604",
+      "url": "X12-181-OQC-250604-PRO3.bin",
+      "md5": "8b50347bd8b700ffd6aae8009ffefa54"
+    }
+  },
+  "X12 Pro Gen 4": {
+    "MX": {
+      "latest": "20250604",
+      "url": "X12-181-OQC-250604-MXPRO4.bin",
+      "md5": "e09b1a349a69eb33840dfbecfb52473b"
+    },
+    "Normal": {
+      "latest": "20250604",
+      "url": "X12-181-OQC-250604-PRO4.bin",
+      "md5": "1aee089037f856407a7968995e028a9e"
+    },
+    "RS": {
+      "latest": "20240627",
+      "url": "X12-181-RS-240627-PRO4.bin",
+      "md5": "622122673d8b1e0638704d6849448268"
+    }
+  },
+  "X6 - X1 Pro": {
+    "Normal": {
+      "latest": "20250604",
+      "url": "X6-181-OQC-250604-PRO3.bin",
+      "md5": "5e52ff311ac8cc37bcba0aaf30aadce5"
+    }
+  },
+  "X6 - X1 Stealth": {
+    "Normal": {
+      "latest": "20250604",
+      "url": "X6-181-OQC-250604-STL3.bin",
+      "md5": "3d4bbe3837d5c7e3d53f3cdbbe9c8d1b"
     }
   }
 }
