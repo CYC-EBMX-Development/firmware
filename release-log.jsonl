@@ -5,3 +5,5 @@
 {"timestamp": "2026-08-02T11:27:54Z", "action": "publish-test", "channel": "test", "count": 1, "bins": ["x30_Bonnell805_TEST_260723.bin"]}
 {"timestamp": "2026-08-02T11:29:24Z", "action": "publish-test", "channel": "test", "count": 1, "bins": ["x30_Bonnell805_TEST_260723.bin"]}
 {"timestamp": "2026-08-02T11:47:54Z", "action": "publish-test", "channel": "test", "count": 1, "bins": ["x30_Bonnell805_TEST_260723.bin"]}
+{"timestamp": "2026-08-02T11:51:46Z", "action": "publish-test", "channel": "test", "count": 1, "bins": ["x30_Bonnell805_TEST_260723.bin"]}
+{"timestamp": "2026-08-02T11:56:08Z", "action": "publish-test", "channel": "test", "count": 1, "bins": ["x30_Bonnell805_TEST_260723.bin"]}
