@@ -7,3 +7,4 @@
 {"timestamp": "2026-08-02T11:47:54Z", "action": "publish-test", "channel": "test", "count": 1, "bins": ["x30_Bonnell805_TEST_260723.bin"]}
 {"timestamp": "2026-08-02T11:51:46Z", "action": "publish-test", "channel": "test", "count": 1, "bins": ["x30_Bonnell805_TEST_260723.bin"]}
 {"timestamp": "2026-08-02T11:56:08Z", "action": "publish-test", "channel": "test", "count": 1, "bins": ["x30_Bonnell805_TEST_260723.bin"]}
+{"timestamp": "2026-08-03T05:49:07Z", "action": "publish-test", "channel": "test", "count": 2, "bins": ["x30_BONNELL_TEST_260802_V02.bin", "x42_BONNELL_TEST_260802_V02.bin"]}
