@@ -1,4 +1,18 @@
 {
+  "BONNELL805-x30": {
+    "Normal": {
+      "latest": "20260802",
+      "url": "x30_BONNELL_TEST_260802_V02.bin",
+      "md5": "29239eddfb3442ab47345c359548907a"
+    }
+  },
+  "BONNELL902-x42": {
+    "Normal": {
+      "latest": "20260802",
+      "url": "x42_BONNELL_TEST_260802_V02.bin",
+      "md5": "9fa34531f898247c4d2f46a6fc6986c2"
+    }
+  },
   "Photon": {
     "BF": {
       "latest": "20240705",
